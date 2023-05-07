@@ -1,0 +1,57 @@
+body{
+    background-color: blue;
+    
+}
+table{
+    background-color: white;
+    /* margin-top: 70px; */
+    width: 80%;
+    padding: 40px;
+    padding-bottom: 0px;
+    border-radius: 10px;
+}
+tbody{
+    position: relative;
+    top: -87px;
+}
+thead h2{
+    position: relative;
+    top: -52px;
+    left: -72px;
+}
+.heading h3{
+    position: relative;
+    top: 6px;
+    left: -63px;
+    color: gray;
+    font-size: 20px;
+}
+
+tbody label{
+    position: static;
+    float: left;
+    margin-left: 42px;
+    font-size: 18px;
+}
+tbody input{
+    margin-left: 42px;
+    width: 250px;
+    height: 40px;
+}
+.head h3{
+    position: relative;
+    /* top: -114px; */
+    left: -66px; 
+    color: gray;
+    font-size: 20px;
+}
+
+.btn {
+    top: 30px;
+    position: relative;
+    width: 220px;
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+}
