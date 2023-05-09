@@ -6,7 +6,7 @@
 ### 3. Restaurant Website
 
 ### 4. Flex Assignment
-#####  Here, I have already pushed the Flex Assignment in Flex Repository.
+#####  Here, I have already pushed the Flex Assignment in Flex_Assignment Repository.
 
 ### 5. Calculator  Assignment
 
