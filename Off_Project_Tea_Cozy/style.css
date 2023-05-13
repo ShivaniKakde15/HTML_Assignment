@@ -21,6 +21,7 @@ header{
     display: flex;
     justify-content: space-between;
     border-bottom: 1px solid seashell;  
+    background-color: black;
 }
 
  header .nav_container .navbar img{
